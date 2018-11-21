@@ -1,0 +1,2 @@
+# summaryKurs
+zadania z kursu
